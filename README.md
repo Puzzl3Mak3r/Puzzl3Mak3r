@@ -1,6 +1,8 @@
-# ➽ Puzzl3 Mak3r
+# ⇝ Puzzl3 Mak3r ⇜
 
 **`Indie Programmer and Digital Artist`**
+
+---
 
 I'm an indie highschool game developer who builds many projects and games for fun. I also make and edit digital art, but you're mainly hear to know the coding bit. I have started off learning C# before migrating to Psych Engine (modded) LUA, then regular LUA [for Solar 2D]. I have a channel on YouTube for kicking off an Indie game my friends and I are making. For the few people who want to read this, I'm also a coder for Psych Engine for LUA, but cannot use Haxe, but will try in the future. My preferred language is LUA.
 
@@ -12,17 +14,21 @@ I'm an indie highschool game developer who builds many projects and games for fu
       </a> 
    </p>
 
+---
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<br />
+
+---
+
+- 🔭 I’m currently working on Testy
+- 🌱 I’m currently learning LUA [Mainly the Solar 2D API]
+- 👯 I’m looking to collaborate on the project mentioned earlier [Testy]
+- ⚡ Fun fact: I'm a Human :0
+
 <!--
 **Puzzl3Mak3r/Puzzl3Mak3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
