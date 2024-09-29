@@ -11,8 +11,6 @@ I'm an indie highschool game developer who builds many projects and games for fu
       <a href="https://www.youtube.com/@Puzzl3D3v?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC5lH0oYszgCk6nEsbr-h1hQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
       </a> 
-   </p>
-   <p align="left">
       <a href="https://app.daily.dev/puzzl3_mak3r">
          <img alt="youtube subscribers" title="Me on daily.dev!" src="https://custom-icon-badges.demolab.com/badge/-dailydotdev-purple?style=for-the-badge&logoColor=white&logo=41463883"/>
       </a> 
