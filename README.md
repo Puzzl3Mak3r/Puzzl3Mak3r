@@ -14,7 +14,7 @@ I'm an indie highschool game developer who builds many projects and games for fu
    </p>
    <p align="left">
       <a href="https://app.daily.dev/puzzl3_mak3r">
-         <img alt="youtube subscribers" title="Me on daily.dev!" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=41463883"/>
+         <img alt="youtube subscribers" title="Me on daily.dev!" src="https://custom-icon-badges.demolab.com/badge/-dailydotdev-blue?style=for-the-badge&logoColor=white&logo=41463883"/>
       </a> 
    </p>
 
