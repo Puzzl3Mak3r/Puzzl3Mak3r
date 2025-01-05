@@ -19,7 +19,6 @@ I'm an indie highschool game developer who builds many projects and games for fu
 - 🔭 I’m currently working on Testy
 - 🌱 I’m currently learning LUA [Mainly the Solar 2D API]
 - 👯 I’m looking to collaborate on the project mentioned earlier [Testy]
-- ⚡ Fun fact: I'm a Human :0
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
