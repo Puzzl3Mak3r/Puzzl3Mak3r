@@ -5,7 +5,7 @@
 
 ---
 
-I'm an indie highschool game developer who builds many projects and games for fun. I also make and edit digital art, but you're mainly hear to know the coding bit. I have started off learning C# before migrating to Psych Engine (modded) LUA, then regular LUA [for Solar 2D]. I have a channel on YouTube for kicking off an Indie game my friends and I are making. For the few people who want to read this, I'm also a coder for Psych Engine for LUA, but cannot use Haxe, but will try in the future. My preferred language is LUA. Also doing amateur pixel animations
+I'm an indie Uni-student game developer who builds many projects and games for fun. I also make and edit digital art, but you're mainly hear to know the coding bit. I have started off learning C# before migrating to Psych Engine (modded) LUA, then regular LUA [for Solar 2D]. I have a channel on YouTube for kicking off an Indie game my friends and I are making. For the few people who want to read this, I'm also a coder for Psych Engine for LUA, but cannot use Haxe, but will try in the future. My preferred language is LUA. Also doing amateur pixel animations
 
    <p align="left">
       <a href="https://www.youtube.com/@Puzzl3D3v?sub_confirmation=1">
